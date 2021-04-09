@@ -11,7 +11,7 @@ class Blog extends React.Component{
             <>
                 <Article title={"React-Study"}　order={1}/>
                 <Article title={"JSXの使い方"} order={2}/>
-                <Article title={"環境構築をしてみよう！" } order={3}/>
+                <Article title={"環境構築をしてみよう！" } />
                 
             </>
         )
